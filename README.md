@@ -19,6 +19,30 @@ library.
 Used by, and developed in conjunction with, [Neoism][].
 
 
+## Installation 
+
+### Requirements
+
+Napping requires Go 1.2 or later.
+
+
+### Development
+
+```
+go get github.com/jmcvetta/napping
+```
+
+### Stable
+
+Napping is versioned using [`gopkg.in`](http://gopkg.in).  
+
+Current release is `v1`.
+
+```
+go get gopkg.in/jmcvetta/napping.v1
+```
+
+
 ## Documentation
 
 See [![GoDoc](http://godoc.org/github.com/jmcvetta/napping?status.png)](http://godoc.org/github.com/jmcvetta/napping)
